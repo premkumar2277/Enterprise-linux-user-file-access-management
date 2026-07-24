@@ -1,6 +1,6 @@
 # Enterprise-linux-user-file-access-management
 Enterprise Linux User, File &amp; Access Management System built on Red Hat Enterprise Linux 8 demonstrating Linux administration, user management, permissions, SGID, and enterprise access control.
-# 🚀 Enterprise Linux User, File & Access Management System (RHEL 8)
+# 🚀 Enterprise Linux User, File & Access Management System (RHEL 9)
 
 ![Linux](https://img.shields.io/badge/Linux-RHEL%209-red)
 ![Bash](https://img.shields.io/badge/Bash-Shell-green)
